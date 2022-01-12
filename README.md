@@ -9,5 +9,4 @@
 
 #This will help business in near future before giving loan to customer based on certain parameter and will try to minimize its default rate.
 
-#Important target(dependent) variables in datasets -Default,Charged off and Does not meet the credit policy.
 
